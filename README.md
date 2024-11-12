@@ -52,7 +52,7 @@ Follow these steps to set up and run the project locally:
 3. **Set Up the Database:**
 
 - Use MySQL or another compatible relational database.
-- Your can use in my profile e-commerce application for happycart using php project mysql file use as this
+- Donwload DB from folder call DB
 
 4. **Configure Database Connection:**
 
